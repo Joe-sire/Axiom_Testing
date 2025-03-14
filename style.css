@@ -25,7 +25,7 @@ h1 {
 .discord-link {
     display: inline-block;
     margin-top: 20px; /* Adjust the top margin as needed */
-    transform: translate(200px, 50px);
+    transform: translate(220px, 0px);
 }
 .discord-button {
     width: 200px; /* Adjust the size as needed */
