@@ -26,10 +26,8 @@ h1 {
 .discord-link {
     display: inline-block;
     margin-top: 20px; /* Adjust the top margin as needed */
-    transform: translate(200px, 0px); /* 1st - Left, + Right. 2nd - Up, + Down */
+    transform: translate(250px, -100px); /* 1st - Left, + Right. 2nd - Up, + Down */
     position: relative;
-    right: 0; /* - Left, + Right. */
-    top: 0; /* 2nd - Down, + Up */
 }
 .discord-button {
     width: 200px; /* Adjust the size as needed */
@@ -40,9 +38,8 @@ h1 {
 .CC-link {
     display: inline-block;
     margin-top: 20px; /* Adjust the top margin as needed */
+    transform: translate(-250px, -100px); /* 1st - Left, + Right. 2nd - Up, + Down */
     position: relative;
-    right: 0; /* - Left, + Right. */
-    top: 0; /* 2nd - Down, + Up */
 }
 .CC-button {
     width: 200px; /* Adjust the size as needed */
