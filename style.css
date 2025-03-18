@@ -53,7 +53,7 @@ h1 {
 .rounded-box {
     width: 300px; /* Adjust the width as needed */
     height: auto; /* DONT adjust the height */
-    background-color: #f0f0f0; /
+    background-color: #f0f0f0;
     border-radius: 15px; /* Rounded corners */
     padding: 20px; 
     margin: 20px auto; /* Center the box horizontally */
